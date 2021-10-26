@@ -1,3 +1,5 @@
+# 📚 LIBFT
+
 ## 🇫🇷  ***Créer sa propre bibliothèque***
 
 Ce projet a pour but de nous faire coder en C une bibliothèque de fonctions usuelles que l'on pourra réutiliser dans nos prochains projets. 
